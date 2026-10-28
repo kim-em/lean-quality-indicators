@@ -1,22 +1,22 @@
 {
-  "checked_epoch": 1793077169.819423,
+  "checked_epoch": 1793194946.298126,
   "usage": {
     "session": {
-      "percent_used": 98,
-      "percent_time_elapsed": 93,
-      "resets": "2026-10-27T05:19:59.736849+00:00"
+      "percent_used": 0,
+      "percent_time_elapsed": null,
+      "resets": "unknown"
     },
     "week_all_models": {
-      "percent_used": 70,
-      "percent_time_elapsed": 99,
-      "resets": "2026-10-27T04:59:59.736869+00:00"
+      "percent_used": 6,
+      "percent_time_elapsed": 19,
+      "resets": "2026-11-03T04:59:59.919484+00:00"
     },
     "week_scoped": [
       {
         "model": "Fable",
         "percent_used": 0,
-        "percent_time_elapsed": 99,
-        "resets": "2026-10-27T05:00:00+00:00"
+        "percent_time_elapsed": 19,
+        "resets": "2026-11-03T05:00:00+00:00"
       }
     ],
     "extra_usage": {
