@@ -1,6 +1,6 @@
 # Audit results
 
-Generated 2026-10-28T13:43:04+00:00 · [Methods and notation](AUDIT_METHODS.md) · [Cost summary](runs/main/api-equivalent-costs.md).
+Generated 2026-10-28T13:43:06+00:00 · [Methods and notation](AUDIT_METHODS.md) · [Cost summary](runs/main/api-equivalent-costs.md).
 
 [Appendix: simp interface and concept reinvention — not ready for use](AUDIT_APPENDIX.md). These audits do not contribute to the summaries below.
 
