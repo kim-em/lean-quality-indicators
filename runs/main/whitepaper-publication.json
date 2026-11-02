@@ -1,6 +1,6 @@
 {
   "stage": "ready-to-push",
-  "utc": "2026-10-28T13:42:52.503941+00:00",
+  "utc": "2026-11-02T11:31:57.189838+00:00",
   "runs": {
     "runs/cfsg-pilot-2026-10-27/scale-300/files/repeated-proof-machinery/claude-sonnet-5-5-high": {
       "completed": 270,
@@ -24,6 +24,6 @@
     }
   },
   "markdown_sha256": "732c38dde1d74288743174dc737334f20b210a0046f25994b1c5825116a896f6",
-  "pdf_sha256": "62a0035dd8f23e9910669326c1a4dfa8d7d631e88e353e8ebd77c1dc4ab5db0c",
+  "pdf_sha256": "3eda9e4706713dd9acfc7ff55c4a136ba7f1121f52bf2ba504930f8cb2b0b956",
   "pages": 2
 }
