@@ -1,6 +1,6 @@
 # statement-generality
 
-Generated 2026-11-16T14:49:54+00:00 · [Methods and notation](../../../AUDIT_METHODS.md) · 2,000 bootstrap draws.
+Generated 2026-11-16T15:23:31+00:00 · [Methods and notation](../../../AUDIT_METHODS.md) · 2,000 bootstrap draws.
 
 ## Library comparison
 
