@@ -1,0 +1,74 @@
+{
+  "repeated-proof-machinery:mathlib": {
+    "completed": 372,
+    "flagged": 60
+  },
+  "repeated-proof-machinery:tauceti": {
+    "completed": 372,
+    "flagged": 64
+  },
+  "repeated-proof-machinery:formal-frontier": {
+    "completed": 372,
+    "flagged": 128
+  },
+  "repeated-proof-machinery:lean-pool": {
+    "completed": 372,
+    "flagged": 180
+  },
+  "repeated-proof-machinery:flt-anthropic": {
+    "completed": 372,
+    "flagged": 189
+  },
+  "repeated-proof-machinery:openai-math": {
+    "completed": 372,
+    "flagged": 154
+  },
+  "concept-reinvention:mathlib": {
+    "completed": 372,
+    "flagged": 28
+  },
+  "concept-reinvention:tauceti": {
+    "completed": 372,
+    "flagged": 9
+  },
+  "concept-reinvention:formal-frontier": {
+    "completed": 372,
+    "flagged": 30
+  },
+  "concept-reinvention:lean-pool": {
+    "completed": 371,
+    "flagged": 52
+  },
+  "concept-reinvention:flt-anthropic": {
+    "completed": 372,
+    "flagged": 56
+  },
+  "concept-reinvention:openai-math": {
+    "completed": 372,
+    "flagged": 25
+  },
+  "simp-interface:mathlib": {
+    "completed": 372,
+    "flagged": 170
+  },
+  "simp-interface:tauceti": {
+    "completed": 372,
+    "flagged": 165
+  },
+  "simp-interface:formal-frontier": {
+    "completed": 370,
+    "flagged": 200
+  },
+  "simp-interface:lean-pool": {
+    "completed": 371,
+    "flagged": 226
+  },
+  "simp-interface:flt-anthropic": {
+    "completed": 370,
+    "flagged": 168
+  },
+  "simp-interface:openai-math": {
+    "completed": 371,
+    "flagged": 211
+  }
+}

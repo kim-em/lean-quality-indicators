@@ -1,22 +1,22 @@
 {
-  "checked_epoch": 1793194946.298126,
+  "checked_epoch": 1795131548.9915862,
   "usage": {
     "session": {
-      "percent_used": 0,
+      "percent_used": null,
       "percent_time_elapsed": null,
       "resets": "unknown"
     },
     "week_all_models": {
-      "percent_used": 6,
-      "percent_time_elapsed": 19,
-      "resets": "2026-11-03T04:59:59.919484+00:00"
+      "percent_used": 30,
+      "percent_time_elapsed": 39,
+      "resets": "2026-11-24T05:00:00.705221+00:00"
     },
     "week_scoped": [
       {
         "model": "Fable",
         "percent_used": 0,
-        "percent_time_elapsed": 19,
-        "resets": "2026-11-03T05:00:00+00:00"
+        "percent_time_elapsed": 39,
+        "resets": "2026-11-24T04:59:59.705404+00:00"
       }
     ],
     "extra_usage": {
@@ -28,6 +28,31 @@
       "decimal_places": null,
       "spend_limit_reached": false
     },
-    "reset_grants": []
+    "reset_grants": [
+      {
+        "id": "full-reset-2611",
+        "label": "One full limit reset (November 2026)",
+        "resets_left": 1,
+        "resets_total": 1,
+        "ends_at": "2026-12-10T22:00:00+00:00",
+        "usable_now": true
+      },
+      {
+        "id": "launch-2610-fable",
+        "label": "New model launch: one Fable reset for Max, Team Premium and Enterprise Premium",
+        "resets_left": 1,
+        "resets_total": 1,
+        "ends_at": "2027-03-09T07:59:00+00:00",
+        "usable_now": true
+      },
+      {
+        "id": "launch-2610-fable-6mo",
+        "label": "New model launch: one more Fable reset at 6 months' tenure",
+        "resets_left": 1,
+        "resets_total": 1,
+        "ends_at": "2027-03-09T07:59:00+00:00",
+        "usable_now": true
+      }
+    ]
   }
 }
