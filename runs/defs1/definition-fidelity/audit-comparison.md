@@ -1,6 +1,6 @@
 # definition-fidelity
 
-Generated 2026-11-18T17:01:11+00:00 · [Methods and notation](../../../AUDIT_METHODS.md) · 2,000 bootstrap draws.
+Generated 2026-11-19T23:52:14+00:00 · [Methods and notation](../../../AUDIT_METHODS.md) · 2,000 bootstrap draws.
 
 Opus column includes the automatic missing-docstring rule; those flags require no model call. Rates here use all reviewed definitions, including technical definitions set aside by the judge. [Original report with assessed-only rates](claude-opus-5-5-high/report.md).
 
